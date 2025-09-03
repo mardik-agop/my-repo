@@ -1,0 +1,7 @@
+Git test
+123
+Hello
+testing git add .
+123
+456
+789
